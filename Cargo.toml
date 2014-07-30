@@ -5,4 +5,3 @@ authors = [ "Henrik Hodne <henrik@travis-ci.com>" ]
 
 [[lib]]
 name = "travis-ci-rust-example"
-
