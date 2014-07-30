@@ -1,0 +1,8 @@
+[package]
+name = "travis-ci-rust-example"
+version = "0.0.1"
+authors = [ "Henrik Hodne <henrik@travis-ci.com>" ]
+
+[[lib]]
+name = "travis-ci-rust-example"
+
